@@ -1,0 +1,44 @@
+2023/06/15-15:21:57.674 3fcac Creating DB C:\Users\dev\Documents\GitHub\autoBot-whatsapp\tokens\ws-sender\Default\IndexedDB\https_web.whatsapp.com_0.indexeddb.leveldb since it was missing.
+2023/06/15-15:21:57.689 3fcac Reusing MANIFEST C:\Users\dev\Documents\GitHub\autoBot-whatsapp\tokens\ws-sender\Default\IndexedDB\https_web.whatsapp.com_0.indexeddb.leveldb/MANIFEST-000001
+2023/06/15-15:21:57.742 3a00 Level-0 table #5: started
+2023/06/15-15:21:57.751 3a00 Level-0 table #5: 7386 bytes OK
+2023/06/15-15:21:57.757 3a00 Delete type=0 #3
+2023/06/15-15:21:57.758 3a00 Manual compaction at level-0 from '\x00\x01\x00\x00\x00' @ 72057594037927935 : 1 .. '\x00\x02\x00\x00\x00' @ 0 : 0; will stop at (end)
+2023/06/15-15:21:58.584 3fcac Level-0 table #7: started
+2023/06/15-15:21:58.595 3fcac Level-0 table #7: 15711 bytes OK
+2023/06/15-15:21:58.601 3fcac Delete type=0 #4
+2023/06/15-15:21:58.602 3fcac Manual compaction at level-0 from '\x00\x06\x00\x00\x00' @ 72057594037927935 : 1 .. '\x00\x07\x00\x00\x00' @ 0 : 0; will stop at (end)
+2023/06/15-15:22:14.567 26b6c Level-0 table #9: started
+2023/06/15-15:22:14.606 26b6c Level-0 table #9: 1028212 bytes OK
+2023/06/15-15:22:14.613 26b6c Delete type=0 #6
+2023/06/15-15:22:14.870 3fcac Level-0 table #11: started
+2023/06/15-15:22:14.926 3fcac Level-0 table #11: 1274293 bytes OK
+2023/06/15-15:22:14.934 3fcac Delete type=0 #8
+2023/06/15-15:22:14.940 26b6c Compacting 2@0 + 1@1 files
+2023/06/15-15:22:15.062 26b6c Generated table #12@0: 43576 keys, 1656912 bytes
+2023/06/15-15:22:15.063 26b6c Compacted 2@0 + 1@1 files => 1656912 bytes
+2023/06/15-15:22:15.068 26b6c compacted to: files[ 0 1 1 0 0 0 0 ]
+2023/06/15-15:22:17.049 26b6c Level-0 table #14: started
+2023/06/15-15:22:17.090 26b6c Level-0 table #14: 1232887 bytes OK
+2023/06/15-15:22:17.096 26b6c Delete type=2 #7
+2023/06/15-15:22:17.096 26b6c Delete type=2 #9
+2023/06/15-15:22:17.096 26b6c Delete type=0 #10
+2023/06/15-15:22:17.096 26b6c Delete type=2 #11
+2023/06/15-15:22:17.130 3a00 Compacting 1@0 + 1@1 files
+2023/06/15-15:22:17.241 3a00 Generated table #15@0: 60243 keys, 2236641 bytes
+2023/06/15-15:22:17.253 3a00 Generated table #16@0: 2924 keys, 163415 bytes
+2023/06/15-15:22:17.253 3a00 Compacted 1@0 + 1@1 files => 2400056 bytes
+2023/06/15-15:22:17.257 3a00 compacted to: files[ 0 2 1 0 0 0 0 ]
+2023/06/15-15:22:17.257 3a00 Delete type=2 #12
+2023/06/15-15:22:17.258 3a00 Delete type=2 #14
+2023/06/15-15:22:18.193 26b6c Level-0 table #18: started
+2023/06/15-15:22:18.232 26b6c Level-0 table #18: 1005141 bytes OK
+2023/06/15-15:22:18.235 26b6c Delete type=0 #13
+2023/06/15-15:22:18.417 3a00 Compacting 1@0 + 2@1 files
+2023/06/15-15:22:18.514 3a00 Generated table #19@0: 74602 keys, 2249264 bytes
+2023/06/15-15:22:18.541 3a00 Generated table #20@0: 11576 keys, 783965 bytes
+2023/06/15-15:22:18.541 3a00 Compacted 1@0 + 2@1 files => 3033229 bytes
+2023/06/15-15:22:18.544 3a00 compacted to: files[ 0 2 1 0 0 0 0 ]
+2023/06/15-15:22:18.544 3a00 Delete type=2 #15
+2023/06/15-15:22:18.544 3a00 Delete type=2 #16
+2023/06/15-15:22:18.544 3a00 Delete type=2 #18
