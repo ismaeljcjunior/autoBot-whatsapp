@@ -1,0 +1,22 @@
+// This is your Prisma schema file,
+// learn more about it in the docs: https://pris.ly/d/prisma-schema
+
+generator client {
+  provider = "prisma-client-js"
+}
+
+datasource db {
+  provider = "mysql"
+  url      = env("DATABASE_URL")
+}
+
+model notification {
+  id             Int       @id @default(autoincrement())
+  name           String?
+  phone          String?
+  service        String?   @db.VarChar(150)
+  dt_executed    DateTime?
+  dt_send        DateTime?
+  dt_created     DateTime  @default(now())
+  dt_send_status String?
+}

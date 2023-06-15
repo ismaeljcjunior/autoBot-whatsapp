@@ -15,6 +15,10 @@ app.use(cors())
 app.use(express.json())
 app.use(express.urlencoded({ extended: true }))
 
+
+app.get('/status',(req: Request, res: Response) => {
+
+})
 app.get('/', (req: Request, res: Response) => {
     res.send('Server AutoBot-WhatsApp is running' + port)
 })
